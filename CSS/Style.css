@@ -9,7 +9,7 @@ body
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url("../Imagens/Background-Space.png");
+    background-image: url("/MeuProjeto/CSS/Background-Space.png");
     background-size: calc(100% + var(--x) / 3);
     background-position: center;
 }
