@@ -22,11 +22,11 @@ body
 }
 .txtIntroducao{
     position: relative;
-    top: 3em;
-    left: 2em;
+    margin: 10% 0 0 10%;
     width: 50%;
+    height: 80%;
     font-family: 'Audiowide', cursive;
-    font-size: 4em;
+    font-size: 350%;
 	color: white;
     text-shadow: 3px 3px 5px #2387da;
 
